@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hoy! i&#39;m crusher</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on hoy! i&#39;m crusher</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2024, CruSheR.</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>I&amp;rsquo;d love to chat with you about WORK or any other WORK related thing please contact me on email for professional discussions&#xA;Email: crusherworkmail@gmail.com&#xA;Github: Crv5heR&#xA;Discord: @cersho&#xA;Spotify: CruSheR</description>
+    </item>
+    <item>
+      <title>Quotes</title>
+      <link>http://localhost:1313/favqts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/favqts/</guid>
+      <description>Favourite Quotes wisdom comes to those who seek it.&#xA;pain demands to be felt.&#xA;You can&amp;rsquo;t control the wind, but you can adjust your sails.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+baseURL = "https://crvsher.me"
+theme = 'hugo-bearblog'
+title = "hoy! i'm crusher"
+author = "CruSheR"
+copyright = "Copyright © 2024, CruSheR."
+languageCode = "en-US"
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
+
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug"
+
+[params]
+  description = ":heart:"
+  favicon = "images/favicon.png"
+  title = "hoy! i'm crusher"
