@@ -1,8 +1,6 @@
-I'm a backend developer and I'm passionate about harnessing technology to drive innovation, and I'm always eager to take on new challenges. Whether it's architecting complex systems, optimizing existing applications, or mentoring the next generation of developers, I'm committed to making a positive impact in the world.
+I'm a 20 year old backend developer, server administrator and sometimes a team leader, puter wizard from Cairo, Egypt
 
-You can clearly see its written by AI.
-
-Anyway, I started learning to code when I was 9yo to create Minecraft plugins using Java, and since then I started taking it more seriously and made a fair number of projects for clients I would never have thought I’d work with.
+I started learning to code when I was 9yo to create Minecraft plugins using Java, and since then I started taking it more seriously and made a fair number of projects for clients I would never have thought I’d work with.
 
 Now, I work as a ASP.NET Backend Developer
 
