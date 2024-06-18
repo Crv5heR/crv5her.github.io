@@ -1,34 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hoy! i&#39;m crusher</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on hoy! i&#39;m crusher</description>
+    <title>Web API Security on hoy! i&#39;m crusher</title>
+    <link>http://localhost:1313/blog/web-api-security/</link>
+    <description>Recent content in Web API Security on hoy! i&#39;m crusher</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024, CruSheR.</copyright>
     <lastBuildDate>Tue, 18 Jun 2024 13:03:41 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/web-api-security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Asp.Net Core Web Api Security</title>
       <link>http://localhost:1313/mastering-asp.net-core-web-api-security/</link>
       <pubDate>Tue, 18 Jun 2024 13:03:41 +0300</pubDate>
       <guid>http://localhost:1313/mastering-asp.net-core-web-api-security/</guid>
       <description>Introduction In today&amp;rsquo;s interconnected world, securing web APIs is paramount for protecting sensitive data and ensuring the integrity of applications. As developers, understanding and implementing robust security measures such as CSRF (Cross-Site Request Forgery) protection, XSS (Cross-Site Scripting) prevention, and rate limiting can safeguard our APIs from malicious attacks. This blog explores how to master these aspects of web API security using C# ASP.NET Core, empowering you to build resilient and secure applications.</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>I&amp;rsquo;d love to chat with you about WORK or any other WORK related thing please contact me on email for professional discussions&#xA;Email: crusherworkmail@gmail.com&#xA;Github: Crv5heR&#xA;Discord: @cersho&#xA;Spotify: CruSheR</description>
-    </item>
-    <item>
-      <title>Quotes</title>
-      <link>http://localhost:1313/favqts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/favqts/</guid>
-      <description>Favourite Quotes wisdom comes to those who seek it.&#xA;pain demands to be felt.&#xA;You can&amp;rsquo;t control the wind, but you can adjust your sails.</description>
     </item>
   </channel>
 </rss>
