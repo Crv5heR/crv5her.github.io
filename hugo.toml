@@ -4,6 +4,7 @@ title = "hoy! i'm crusher"
 author = "CruSheR"
 copyright = "Copyright © 2024, CruSheR."
 languageCode = "en-US"
+googleAnalytics = "G-92Z130MGQK"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
