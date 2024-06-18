@@ -6,6 +6,9 @@ anyway, i specialize in
 
 [![C#](https://img.shields.io/badge/C%23-gray?style=for-the-badge&logo=csharp)](https://)
 [![ASP.NET CORE](https://img.shields.io/badge/ASP.NET_CORE-gray?style=for-the-badge&logo=.NET)](https://)
+
+also i used to work with
+
 [![SQL](https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=microsoftsqlserver)](https://)
 [![NOSQL](https://img.shields.io/badge/NoSQL-gray?style=for-the-badge&logo=mongodb)](https://)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-gray?style=for-the-badge&logo=ubuntu)](https://)
